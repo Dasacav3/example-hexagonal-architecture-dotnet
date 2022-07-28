@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t32AQWuZNxr5YsYk9zcvQQdjAFKADMQA1k/MrHe2pclf12tBbfnwnayds4kg6gqTN4DLZQ740oUGiZu7iDO00w==",
+  "success": true,
+  "projectFilePath": "/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/HexagonalArchitecture.csproj",
+  "expectedPackageFiles": [
+    "/home/dasacav3/.nuget/packages/awssdk.core/3.7.12.11/awssdk.core.3.7.12.11.nupkg.sha512",
+    "/home/dasacav3/.nuget/packages/awssdk.dynamodbv2/3.7.3.59/awssdk.dynamodbv2.3.7.3.59.nupkg.sha512",
+    "/home/dasacav3/.nuget/packages/awssdk.s3/3.7.9.28/awssdk.s3.3.7.9.28.nupkg.sha512"
+  ],
+  "logs": []
+}

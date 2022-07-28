@@ -1,0 +1,15 @@
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/bin/Debug/net6.0/HexagonalArchitecture
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/bin/Debug/net6.0/HexagonalArchitecture.deps.json
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/bin/Debug/net6.0/HexagonalArchitecture.runtimeconfig.json
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/bin/Debug/net6.0/HexagonalArchitecture.dll
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/bin/Debug/net6.0/HexagonalArchitecture.pdb
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/obj/Debug/net6.0/HexagonalArchitecture.csproj.AssemblyReference.cache
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/obj/Debug/net6.0/HexagonalArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/obj/Debug/net6.0/HexagonalArchitecture.AssemblyInfoInputs.cache
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/obj/Debug/net6.0/HexagonalArchitecture.AssemblyInfo.cs
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/obj/Debug/net6.0/HexagonalArchitecture.csproj.CoreCompileInputs.cache
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/obj/Debug/net6.0/HexagonalArchitecture.dll
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/obj/Debug/net6.0/refint/HexagonalArchitecture.dll
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/obj/Debug/net6.0/HexagonalArchitecture.pdb
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/obj/Debug/net6.0/HexagonalArchitecture.genruntimeconfig.cache
+/home/dasacav3/Documents/DesarrolloSoftware/Backend/Dotnet/HexagonalArchitecture/obj/Debug/net6.0/ref/HexagonalArchitecture.dll
